@@ -18,8 +18,8 @@ A simulation framework for modeling electric vehicle (EV) charging stations at s
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/E-GridModel.git
-   cd E-GridModel
+   git clone https://github.com/your-username/EV-GridModel.git
+   cd EV-GridModel
    ```
 
 2. **Create a virtual environment** (recommended)
