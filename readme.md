@@ -1,4 +1,4 @@
-# E-GridModel
+# EV-GridModel
 
 A simulation framework for modeling electric vehicle (EV) charging stations at scale, analyzing charger utilization, queueing dynamics, and financial performance across various charger configurations and parking slot allocations.
 
